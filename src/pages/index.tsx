@@ -16,7 +16,7 @@ interface HomeProps {
 export default function Home({ product }:HomeProps) {
   return (
     <>
-      <Head>
+      <Head key={product.productId}>
         <title>Home | ig.news</title>
       </Head>
 
