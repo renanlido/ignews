@@ -1,6 +1,6 @@
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-advanced.svg)](https://choosealicense.com/licenses/mit)
 [![NPM](https://img.shields.io/badge/used%20tech-NextJS-blue)](https://nextjs.org/)
-[![GitHub last commit](https://img.shields.io/badge/last%20comit-april%202021-orange)](https://github.com/renanlido/ignews/commits/master)
+[![GitHub last commit](https://img.shields.io/badge/last%20comit-april%202021-orange)](https://github.com/renanlido/ignews/commits)
 
 <!--LOGO-->
 <br/>
