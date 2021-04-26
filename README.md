@@ -1,6 +1,9 @@
-[![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-advanced.svg)](https://choosealicense.com/licenses/mit)
-[![NPM](https://img.shields.io/badge/used%20tech-NextJS-blue)](https://nextjs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/badge/last%20comit-april%202021-orange)](https://github.com/renanlido/ignews/commits)
+[![Next.js](https://img.shields.io/badge/NextJs-blue)](https://nextjs.org/)
+[![React.js](https://img.shields.io/badge/-ReactJs-blue)](https://pt-br.reactjs.org/)
+[![Typescript](https://img.shields.io/badge/-Typescript-blue)](https://www.typescriptlang.org/)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-blueviolet)](https://rocketseat.com.br)
 
 <!--LOGO-->
 <br/>
@@ -74,9 +77,9 @@ Caso não tenha o yarn instalado, utilize o gerenciador de pacotes da sua prefer
 <img src="./assets/ignews_fauna.png" alt="Logo Fauna">
 
 5. Após isto, utilize o comando abaixo para rodar o aplicativo.
-```ssh 
-yarn dev 
-```
+    ```ssh 
+    yarn dev 
+    ```
 </br>
 
 <!--THE RESULT-->
